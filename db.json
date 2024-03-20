@@ -1,0 +1,44 @@
+{
+  "qusetions": [
+    {
+      "id": "0bbc",
+      "question": "how are you",
+      "option1": "fine",
+      "option2": "good",
+      "option3": "thx",
+      "option4": "cool",
+      "correct": "fine",
+      "degree": 5
+    },
+    {
+      "id": "5fbd",
+      "question": "where are you from",
+      "option1": "cairo",
+      "option2": "tanta",
+      "option3": "banha",
+      "option4": "sohag",
+      "correct": "tanta",
+      "degree": 3
+    },
+    {
+      "id": "ca53",
+      "question": "what's your name",
+      "option1": "moamen",
+      "option2": "ahmed",
+      "option3": "abdo",
+      "option4": "mohamed",
+      "correct": "abdo",
+      "degree": 2
+    },
+    {
+      "id": "7ed7",
+      "question": "where are you",
+      "option1": "home",
+      "option2": "work",
+      "option3": "zoo",
+      "option4": "garden",
+      "correct": "garden",
+      "degree": 2
+    }
+  ]
+}

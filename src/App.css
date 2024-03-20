@@ -1,0 +1,19 @@
+.main-btn {
+  background-color: #872991;
+  padding: 15px 30px;
+  border-radius: 100px;
+}
+body {
+  background-color: #f3e8ff;
+}
+html {
+  scroll-behavior: smooth;
+}
+.correct-active {
+  background-color: #0f0 !important;
+  color: #fff;
+}
+.wrong-answer {
+  background-color: #f00 !important;
+  color: #fff;
+}

@@ -1,0 +1,8 @@
+.boxes:hover p,
+.boxes:hover a {
+  color: #fff;
+  transition: 0.5;
+}
+.boxes {
+  transition: all 0.5s;
+}
